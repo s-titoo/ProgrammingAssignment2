@@ -1,3 +1,5 @@
+# I suppose it will be some practice in working with GitHub... and that's all...
+
 ## Put comments here that give an overall description of what your
 ## functions do
 
